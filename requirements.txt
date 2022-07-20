@@ -1,0 +1,10 @@
+facenet-pytorch==2.5.2
+Flask==2.0.2
+numpy==1.22.2
+#opencv-python==4.5.5.62
+pandas==1.4.0
+Pillow==9.0.1
+scipy==1.8.0
+joblib==1.1.0
+torch
+gunicorn
